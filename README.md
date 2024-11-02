@@ -1,5 +1,5 @@
 Visit at
-[Krishna](https://krishnamurthy-srinivasan.github.io/krishna-murthy-portfolio/ "title" target="_blank")
+[Krishna](https://krishnamurthy-srinivasan.github.io/krishna-murthy-portfolio/)
 
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
